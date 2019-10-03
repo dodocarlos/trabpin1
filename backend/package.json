@@ -1,0 +1,22 @@
+{
+  "name": "trellogantt_back",
+  "version": "1.0.0",
+  "description": "Backend",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carlos e Lucas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "md5": "^2.2.1",
+    "mysql": "^2.17.1",
+    "nodemon": "^1.19.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.6.2",
+    "@babel/preset-env": "^7.6.2",
+    "@babel/register": "^7.6.2"
+  }
+}
